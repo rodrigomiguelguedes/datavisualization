@@ -1,6 +1,15 @@
-# This is the repository for Data Visualization
+# Data Visualization Project
  
 
-Oi
+Current Version: 0
 
-27
+Tasks done:
+-
+-
+
+
+To do task list:
+-
+-
+
+Contributors:
