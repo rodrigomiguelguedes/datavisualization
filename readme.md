@@ -13,3 +13,5 @@ To do task list:
 -
 
 Contributors:
+
+Rodrigo Guedes
